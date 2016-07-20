@@ -1,3 +1,6 @@
 [submodule "sub-repo-test-one"]
 	path = sub-repo-test-one
 	url = git@github.com:colevoss/sub-repo-test-one.git
+[submodule "sub-repo-test-two"]
+	path = sub-repo-test-two
+	url = git@github.com:colevoss/sub-repo-test-two.git
